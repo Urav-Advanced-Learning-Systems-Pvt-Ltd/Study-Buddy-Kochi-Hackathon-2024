@@ -53,11 +53,10 @@ body:
       label: Hackathon Track
       description: What hackathon track are you opting in?
       options:
-        - Computer Science & IT
-        - Electrical
-        - Electronics and Communication 
-        - Mechanical & Civil      
-        - Biomedical & Chemical
+        - Physical Sciences 
+        - Life Sciences  
+        - Humanities      
+        - Everything Else (Interdisciplinary/Cross-disciplinary) 
     validations:
       required: true
   - type: input
@@ -75,7 +74,7 @@ body:
       description: Share a publicly visible video to a recording of your conversation
       placeholder: https://www.youtube.com/watch?v=.....
     validations:
-      required: true
+      required: false
   - type: input
     id: demo-link
     attributes:
