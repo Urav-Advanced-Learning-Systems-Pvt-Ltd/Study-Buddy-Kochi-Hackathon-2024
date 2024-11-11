@@ -1,11 +1,11 @@
-# Study Buddy | AI Assistant [Subject] Hackathon 2024
+# Study Buddy | AI Assistant Kochi Hackathon 2024
 
 [![Study Buddy | AI Assistant on Google Play](https://img.shields.io/badge/Study_Buddy_|_AI_Assistant_on_Google_Play-00E26B?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.Uralstech.StudyBuddy)
 [![Study Buddy | AI Assistant on App Store](https://img.shields.io/badge/Study_Buddy_|_AI_Assistant_on_App_Store-51A0D5?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/study-buddy-ai-assistant/id6671574219)
 
 ## Table Of Contents
 
-- [Study Buddy | AI Assistant SUBJECT Hackathon 2024](#study-buddy--ai-assistant-SUBJECT-hackathon-2024-1)
+- [Study Buddy | AI Assistant Kochi Hackathon 2024](#study-buddy--ai-assistant-kochi-hackathon-2024-1)
   * [About The Hackathon](#about-the-hackathon)
   * [Rules](#rules)
   * [Timeline](#timeline)
@@ -19,7 +19,7 @@
     + [Example Use Cases](#example-use-cases)
   * [Code of Conduct](#code-of-conduct)
 
-# Study Buddy | AI Assistant SUBJECT Hackathon 2024
+# Study Buddy | AI Assistant Kochi Hackathon 2024
 
 ## About The Hackathon
 
