@@ -38,25 +38,25 @@ Check out the [Rules](RULES.md) to participate in the Hackathon.
 
 ## Tracks
 
-CHANGETHIS
-* Computer Science and IT:
-> 1. Virtual coding assistant: Use Study Buddy's code interpreter to write programs and present the chat leading to the code development.
+* Physical Sciences:
+> 1. Chemical reaction simulator: Utilize Study Buddy's code interpreter to model and analyze chemical reactions.
+> 2. Physics: Explain the Grand Unified Theory in Malayalam
+> 3. Math: Upload a math textbook pdf and use Study Buddy to explain the problem.
 
-* Mechanical and Civil:
-> 1. Structural analysis and design optimization: Use Study Buddy's math and graph interpretation to analyze structural integrity.
-> 2. Material science and properties: Use Study Buddy's knowledge base to research material properties.
+* Life Sciences:
+> 1. Botany: Take a picture of a leaf and research it's phytochemicals medicinal properties
+> 2. Biology: Upload a json file of gene expression data for analysis
 
-* Electrical:
-> 1. Circuit design and simulation: Utilize Study Buddy's math and graph interpretation to analyze circuit behavior.
-> 2. Power systems analysis: Use Study Buddy's knowledge base to research electrical power systems.
+* Humanities:
+> 1. Language learning companion: Utilize Study Buddy's multilingual support to create interactive language lessons.
+> 2. Historical event simulator: Use Study Buddy's conversational AI to recreate historical events and discussions.
 
-* Electronics and Communication:
-> 1. Digital signal processing: Use Study Buddy's math and graph interpretation to analyze signals.
-> 2. Communication systems design: Utilize Study Buddy's knowledge base to research communication protocols.
+* Education:
+> 1. Personalized learning platform: Utilize Study Buddy's AI-powered adaptation to create personalized learning plans.
 
-* Biomedical and Chemical:
-> 1. Medical image analysis: Utilize Study Buddy's image generation and analysis capabilities.
-> 2. Clinical decision support system: Integrate Study Buddy with medical databases.
+* Everything Else (Interdisciplinary/Cross-disciplinary):
+> 1. Environmental monitoring system: Create an environmental monitoring system using Study Buddy's data analysis capabilities.
+> 2. Social impact analyzer: Analyze social impact using Study Buddy's AI-powered analysis and data visualization.
 
 ## Prizes
 
